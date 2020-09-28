@@ -1,5 +1,8 @@
 package com.soft2036.unit2;
 
+/**
+ * @author 张守杰
+ */
 public class Wastage {
     public static void main(String[] args) {
         byte b = 22;

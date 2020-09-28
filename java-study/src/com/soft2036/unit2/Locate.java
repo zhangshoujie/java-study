@@ -1,6 +1,9 @@
 package com.soft2036.unit2;
 
-public class locate {
+/**
+ * @author 张守杰
+ */
+public class Locate {
     public static void main(String[] args) {
         char ch1 = 'w',ch2 = '好';
         int p1 = 32831,p2 = 30452;

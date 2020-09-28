@@ -2,6 +2,9 @@ package com.soft2036.unit2;
 
 import java.util.Scanner;
 
+/**
+ * @author 张守杰
+ */
 public class FigureOut {
     public static void main(String[] args) {
         System.out.println("用空格（或回车）做分隔符，输入若干个数，最后输入#结束，\n然后回车确认。");
