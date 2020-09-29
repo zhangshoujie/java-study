@@ -1,4 +1,4 @@
-package src.com.soft2036.unit2;
+package com.soft2036.unit2;
 
 import java.util.Arrays;
 
