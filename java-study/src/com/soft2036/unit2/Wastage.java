@@ -18,7 +18,4 @@ public class Wastage {
         System.out.println("b = " + b);
         System.out.println("f = " + f);
     }
-
-
-
 }
