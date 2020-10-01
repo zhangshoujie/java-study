@@ -1,5 +1,8 @@
 package com.soft2036.unit3;
 
+/**
+ * @author 张守杰
+ */
 public class Arithmatis {
     public static void main(String[] args) {
         char a1 = '中',a2 = '国',a3 = '科',a4 = '大';

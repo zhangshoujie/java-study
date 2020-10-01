@@ -1,5 +1,8 @@
 package com.soft2036.unit3;
 
+/**
+ * @author 张守杰
+ */
 public class DoWhileExample {
     public static void main(String[] args) {
         double sum = 0,item = 1;
