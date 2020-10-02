@@ -7,7 +7,7 @@ import java.util.Arrays;
  */
 public class Sort {
     public static void main(String[] args) {
-        int []a = {12,34,9,23,45,6,45,90,123,19,34};
+        int []a = {12,34,9,23,45,6,46,90,123,19,34};
         Arrays.sort(a);
         System.out.println(Arrays.toString(a));
         int number = 45;

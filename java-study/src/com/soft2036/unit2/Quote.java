@@ -18,5 +18,6 @@ public class Quote {
         System.out.println("a == b的结果是" + (a == b));
         System.out.println("a[0] = " + a[0] + ",a[1] =" + a[1] + ",a[2] =" + a[2]);
         System.out.println("b[0] = " + a[0] + ",b[1] = " + b[1] + ",b[2] =" + b[2]);
+
     }
 }
